@@ -1,0 +1,361 @@
+,value,percentage,type,CCAA,fecha
+0,10996921.24,0.28,renovable,Andalucía,2011-01-01
+1,27608105.11,0.72,no renovable,Andalucía,2011-01-01
+2,7005216.35,0.39,renovable,Aragón,2011-01-01
+3,11119680.66,0.61,no renovable,Aragón,2011-01-01
+4,338515.68,0.17,renovable,Cantabria,2011-01-01
+5,1652228.46,0.83,no renovable,Cantabria,2011-01-01
+6,9874557.14,0.41,renovable,Castilla - La Mancha,2011-01-01
+7,14156252.53,0.59,no renovable,Castilla - La Mancha,2011-01-01
+8,18924716.34,0.54,renovable,Castilla y León,2011-01-01
+9,16168527.16,0.46,no renovable,Castilla y León,2011-01-01
+10,6381741.74,0.15,renovable,Cataluña,2011-01-01
+11,35673357.63,0.85,no renovable,Cataluña,2011-01-01
+12,1178491.07,0.16,renovable,País Vasco,2011-01-01
+13,6043174.05,0.84,no renovable,País Vasco,2011-01-01
+14,2457664.89,0.2,renovable,Principado de Asturias,2011-01-01
+15,9835927.86,0.8,no renovable,Principado de Asturias,2011-01-01
+16,544011.54,0.31,renovable,Comunidad de Madrid,2011-01-01
+17,1204266.15,0.69,no renovable,Comunidad de Madrid,2011-01-01
+18,3440542.26,0.63,renovable,Comunidad Foral de Navarra,2011-01-01
+19,2024024.59,0.37,no renovable,Comunidad Foral de Navarra,2011-01-01
+20,2893052.85,0.14,renovable,Comunitat Valenciana,2011-01-01
+21,17187547.67,0.86,no renovable,Comunitat Valenciana,2011-01-01
+22,5371959.68,0.26,renovable,Extremadura,2011-01-01
+23,15327003.43,0.74,no renovable,Extremadura,2011-01-01
+24,14087592.04,0.53,renovable,Galicia,2011-01-01
+25,12418521.89,0.47,no renovable,Galicia,2011-01-01
+26,1103809.13,0.14,renovable,Región de Murcia,2011-01-01
+27,6948590.11,0.86,no renovable,Región de Murcia,2011-01-01
+28,1234127.52,0.52,renovable,La Rioja,2011-01-01
+29,1133536.77,0.48,no renovable,La Rioja,2011-01-01
+30,11289648.92,0.3,renovable,Andalucía,2012-01-01
+31,26730085.32,0.7,no renovable,Andalucía,2012-01-01
+32,7236334.23,0.43,renovable,Aragón,2012-01-01
+33,9540456.36,0.57,no renovable,Aragón,2012-01-01
+34,378304.74,0.14,renovable,Cantabria,2012-01-01
+35,2244723.34,0.86,no renovable,Cantabria,2012-01-01
+36,11124127.21,0.45,renovable,Castilla - La Mancha,2012-01-01
+37,13699969.14,0.55,no renovable,Castilla - La Mancha,2012-01-01
+38,17363576.61,0.49,renovable,Castilla y León,2012-01-01
+39,18071289.22,0.51,no renovable,Castilla y León,2012-01-01
+40,6726887.81,0.15,renovable,Cataluña,2012-01-01
+41,37281536.58,0.85,no renovable,Cataluña,2012-01-01
+42,1103429.91,0.13,renovable,País Vasco,2012-01-01
+43,7416270.01,0.87,no renovable,País Vasco,2012-01-01
+44,2641292.85,0.18,renovable,Principado de Asturias,2012-01-01
+45,11684803.85,0.82,no renovable,Principado de Asturias,2012-01-01
+46,377641.3,0.23,renovable,Comunidad de Madrid,2012-01-01
+47,1291617.33,0.77,no renovable,Comunidad de Madrid,2012-01-01
+48,3606773.98,0.67,renovable,Comunidad Foral de Navarra,2012-01-01
+49,1786432.11,0.33,no renovable,Comunidad Foral de Navarra,2012-01-01
+50,3455307.71,0.17,renovable,Comunitat Valenciana,2012-01-01
+51,16710581.15,0.83,no renovable,Comunitat Valenciana,2012-01-01
+52,3390635.42,0.18,renovable,Extremadura,2012-01-01
+53,15088808.16,0.82,no renovable,Extremadura,2012-01-01
+54,13125876.16,0.45,renovable,Galicia,2012-01-01
+55,16064236.27,0.55,no renovable,Galicia,2012-01-01
+56,1359789.63,0.21,renovable,Región de Murcia,2012-01-01
+57,5017624.55,0.79,no renovable,Región de Murcia,2012-01-01
+58,1284301.14,0.47,renovable,La Rioja,2012-01-01
+59,1462456.43,0.53,no renovable,La Rioja,2012-01-01
+60,13638179.66,0.39,renovable,Andalucía,2013-01-01
+61,20983004.35,0.61,no renovable,Andalucía,2013-01-01
+62,9624363.91,0.57,renovable,Aragón,2013-01-01
+63,7250705.52,0.43,no renovable,Aragón,2013-01-01
+64,501549.64,0.22,renovable,Cantabria,2013-01-01
+65,1757562.43,0.78,no renovable,Cantabria,2013-01-01
+66,12184528.13,0.53,renovable,Castilla - La Mancha,2013-01-01
+67,10601576.18,0.47,no renovable,Castilla - La Mancha,2013-01-01
+68,22068493.57,0.71,renovable,Castilla y León,2013-01-01
+69,9125179.81,0.29,no renovable,Castilla y León,2013-01-01
+70,9488285.5,0.21,renovable,Cataluña,2013-01-01
+71,35541044.49,0.79,no renovable,Cataluña,2013-01-01
+72,1212596.18,0.19,renovable,País Vasco,2013-01-01
+73,5234639.29,0.81,no renovable,País Vasco,2013-01-01
+74,3862952.97,0.28,renovable,Principado de Asturias,2013-01-01
+75,9745449.54,0.72,no renovable,Principado de Asturias,2013-01-01
+76,530522.32,0.33,renovable,Comunidad de Madrid,2013-01-01
+77,1099832.23,0.67,no renovable,Comunidad de Madrid,2013-01-01
+78,3881292.48,0.74,renovable,Comunidad Foral de Navarra,2013-01-01
+79,1335077.33,0.26,no renovable,Comunidad Foral de Navarra,2013-01-01
+80,3618235.89,0.19,renovable,Comunitat Valenciana,2013-01-01
+81,15105555.46,0.81,no renovable,Comunitat Valenciana,2013-01-01
+82,5709589.65,0.27,renovable,Extremadura,2013-01-01
+83,15168038.04,0.73,no renovable,Extremadura,2013-01-01
+84,19572489.52,0.6,renovable,Galicia,2013-01-01
+85,13259849.31,0.4,no renovable,Galicia,2013-01-01
+86,1556672.78,0.27,renovable,Región de Murcia,2013-01-01
+87,4287773.29,0.73,no renovable,Región de Murcia,2013-01-01
+88,1400988.93,0.73,renovable,La Rioja,2013-01-01
+89,530714.23,0.27,no renovable,La Rioja,2013-01-01
+90,12567982.08,0.39,renovable,Andalucía,2014-01-01
+91,19370869.84,0.61,no renovable,Andalucía,2014-01-01
+92,8859638.07,0.53,renovable,Aragón,2014-01-01
+93,7815562.04,0.47,no renovable,Aragón,2014-01-01
+94,421855.28,0.23,renovable,Cantabria,2014-01-01
+95,1438704.54,0.77,no renovable,Cantabria,2014-01-01
+96,12048386.88,0.54,renovable,Castilla - La Mancha,2014-01-01
+97,10458542.09,0.46,no renovable,Castilla - La Mancha,2014-01-01
+98,24100599.89,0.7,renovable,Castilla y León,2014-01-01
+99,10140601.38,0.3,no renovable,Castilla y León,2014-01-01
+100,8845303.02,0.21,renovable,Cataluña,2014-01-01
+101,32688130.74,0.79,no renovable,Cataluña,2014-01-01
+102,1060240.77,0.17,renovable,País Vasco,2014-01-01
+103,5127937.01,0.83,no renovable,País Vasco,2014-01-01
+104,3534284.17,0.27,renovable,Principado de Asturias,2014-01-01
+105,9667000.41,0.73,no renovable,Principado de Asturias,2014-01-01
+106,532919.52,0.41,renovable,Comunidad de Madrid,2014-01-01
+107,768938.67,0.59,no renovable,Comunidad de Madrid,2014-01-01
+108,3552596.12,0.77,renovable,Comunidad Foral de Navarra,2014-01-01
+109,1070561.64,0.23,no renovable,Comunidad Foral de Navarra,2014-01-01
+110,3804298.04,0.19,renovable,Comunitat Valenciana,2014-01-01
+111,16069258.66,0.81,no renovable,Comunitat Valenciana,2014-01-01
+112,6245746.42,0.29,renovable,Extremadura,2014-01-01
+113,15257623.44,0.71,no renovable,Extremadura,2014-01-01
+114,18586736.87,0.6,renovable,Galicia,2014-01-01
+115,12442446.89,0.4,no renovable,Galicia,2014-01-01
+116,1515185.56,0.28,renovable,Región de Murcia,2014-01-01
+117,3815091.21,0.72,no renovable,Región de Murcia,2014-01-01
+118,1252221.34,0.86,renovable,La Rioja,2014-01-01
+119,205341.32,0.14,no renovable,La Rioja,2014-01-01
+120,12069474.19,0.34,renovable,Andalucía,2015-01-01
+121,23669250.68,0.66,no renovable,Andalucía,2015-01-01
+122,7905377.81,0.51,renovable,Aragón,2015-01-01
+123,7687565.8,0.49,no renovable,Aragón,2015-01-01
+124,476015.61,0.28,renovable,Cantabria,2015-01-01
+125,1226818.2,0.72,no renovable,Cantabria,2015-01-01
+126,10698203.48,0.5,renovable,Castilla - La Mancha,2015-01-01
+127,10888549.83,0.5,no renovable,Castilla - La Mancha,2015-01-01
+128,19984012.12,0.64,renovable,Castilla y León,2015-01-01
+129,11464066.74,0.36,no renovable,Castilla y León,2015-01-01
+130,7809907.47,0.18,renovable,Cataluña,2015-01-01
+131,35204603.26,0.82,no renovable,Cataluña,2015-01-01
+132,1049708.17,0.18,renovable,País Vasco,2015-01-01
+133,4915122.79,0.82,no renovable,País Vasco,2015-01-01
+134,2887908.96,0.17,renovable,Principado de Asturias,2015-01-01
+135,13922143.05,0.83,no renovable,Principado de Asturias,2015-01-01
+136,445035.93,0.37,renovable,Comunidad de Madrid,2015-01-01
+137,756891.83,0.63,no renovable,Comunidad de Madrid,2015-01-01
+138,3638098.59,0.71,renovable,Comunidad Foral de Navarra,2015-01-01
+139,1475686.54,0.29,no renovable,Comunidad Foral de Navarra,2015-01-01
+140,3454711.55,0.19,renovable,Comunitat Valenciana,2015-01-01
+141,15172845.68,0.81,no renovable,Comunitat Valenciana,2015-01-01
+142,4958687.73,0.24,renovable,Extremadura,2015-01-01
+143,16126780.24,0.76,no renovable,Extremadura,2015-01-01
+144,15138874.37,0.52,renovable,Galicia,2015-01-01
+145,14210963.56,0.48,no renovable,Galicia,2015-01-01
+146,1376129.4,0.28,renovable,Región de Murcia,2015-01-01
+147,3467219.49,0.72,no renovable,Región de Murcia,2015-01-01
+148,1218520.61,0.65,renovable,La Rioja,2015-01-01
+149,652060.87,0.35,no renovable,La Rioja,2015-01-01
+150,12837729.87,0.39,renovable,Andalucía,2016-01-01
+151,19962659.41,0.61,no renovable,Andalucía,2016-01-01
+152,7812691.43,0.54,renovable,Aragón,2016-01-01
+153,6593280.76,0.46,no renovable,Aragón,2016-01-01
+154,443307.84,0.25,renovable,Cantabria,2016-01-01
+155,1298466.77,0.75,no renovable,Cantabria,2016-01-01
+156,10997529.03,0.52,renovable,Castilla - La Mancha,2016-01-01
+157,10282714.12,0.48,no renovable,Castilla - La Mancha,2016-01-01
+158,23527716.16,0.73,renovable,Castilla y León,2016-01-01
+159,8688577.84,0.27,no renovable,Castilla y León,2016-01-01
+160,7414900.52,0.17,renovable,Cataluña,2016-01-01
+161,35701867.52,0.83,no renovable,Cataluña,2016-01-01
+162,1014135.63,0.19,renovable,País Vasco,2016-01-01
+163,4411780.35,0.81,no renovable,País Vasco,2016-01-01
+164,3103755.61,0.26,renovable,Principado de Asturias,2016-01-01
+165,9009173.72,0.74,no renovable,Principado de Asturias,2016-01-01
+166,448336.3,0.37,renovable,Comunidad de Madrid,2016-01-01
+167,777050.54,0.63,no renovable,Comunidad de Madrid,2016-01-01
+168,3501041.91,0.62,renovable,Comunidad Foral de Navarra,2016-01-01
+169,2130566.65,0.38,no renovable,Comunidad Foral de Navarra,2016-01-01
+170,3437041.98,0.17,renovable,Comunitat Valenciana,2016-01-01
+171,17180023.18,0.83,no renovable,Comunitat Valenciana,2016-01-01
+172,5747225.59,0.27,renovable,Extremadura,2016-01-01
+173,15254878.55,0.73,no renovable,Extremadura,2016-01-01
+174,17208159.31,0.57,renovable,Galicia,2016-01-01
+175,13095238.76,0.43,no renovable,Galicia,2016-01-01
+176,1404733.54,0.36,renovable,Región de Murcia,2016-01-01
+177,2521181.52,0.64,no renovable,Región de Murcia,2016-01-01
+178,1226472.46,0.53,renovable,La Rioja,2016-01-01
+179,1067778.45,0.47,no renovable,La Rioja,2016-01-01
+180,13034447.98,0.35,renovable,Andalucía,2017-01-01
+181,23958572.17,0.65,no renovable,Andalucía,2017-01-01
+182,7462986.58,0.45,renovable,Aragón,2017-01-01
+183,9271154.27,0.55,no renovable,Aragón,2017-01-01
+184,362846.89,0.18,renovable,Cantabria,2017-01-01
+185,1602209.39,0.82,no renovable,Cantabria,2017-01-01
+186,10670273.1,0.5,renovable,Castilla - La Mancha,2017-01-01
+187,10758959.08,0.5,no renovable,Castilla - La Mancha,2017-01-01
+188,16330597.61,0.64,renovable,Castilla y León,2017-01-01
+189,9005329.37,0.36,no renovable,Castilla y León,2017-01-01
+190,7359629.85,0.16,renovable,Cataluña,2017-01-01
+191,37446528.89,0.84,no renovable,Cataluña,2017-01-01
+192,998456.06,0.17,renovable,País Vasco,2017-01-01
+193,4797551.28,0.83,no renovable,País Vasco,2017-01-01
+194,2174947.19,0.15,renovable,Principado de Asturias,2017-01-01
+195,11910732.8,0.85,no renovable,Principado de Asturias,2017-01-01
+196,451642.91,0.37,renovable,Comunidad de Madrid,2017-01-01
+197,774949.26,0.63,no renovable,Comunidad de Madrid,2017-01-01
+198,3585189.72,0.61,renovable,Comunidad Foral de Navarra,2017-01-01
+199,2301204.09,0.39,no renovable,Comunidad Foral de Navarra,2017-01-01
+200,3224920.62,0.19,renovable,Comunitat Valenciana,2017-01-01
+201,13836014.21,0.81,no renovable,Comunitat Valenciana,2017-01-01
+202,4764185.59,0.23,renovable,Extremadura,2017-01-01
+203,16407459.17,0.77,no renovable,Extremadura,2017-01-01
+204,10619050.78,0.41,renovable,Galicia,2017-01-01
+205,15582039.71,0.59,no renovable,Galicia,2017-01-01
+206,1380801.0,0.21,renovable,Región de Murcia,2017-01-01
+207,5088359.61,0.79,no renovable,Región de Murcia,2017-01-01
+208,1211447.79,0.41,renovable,La Rioja,2017-01-01
+209,1751812.82,0.59,no renovable,La Rioja,2017-01-01
+210,11753164.0,0.34,renovable,Andalucía,2018-01-01
+211,22513209.77,0.66,no renovable,Andalucía,2018-01-01
+212,8564998.61,0.56,renovable,Aragón,2018-01-01
+213,6632646.31,0.44,no renovable,Aragón,2018-01-01
+214,505898.91,0.23,renovable,Cantabria,2018-01-01
+215,1707748.36,0.77,no renovable,Cantabria,2018-01-01
+216,11346027.33,0.52,renovable,Castilla - La Mancha,2018-01-01
+217,10330675.92,0.48,no renovable,Castilla - La Mancha,2018-01-01
+218,20594544.96,0.77,renovable,Castilla y León,2018-01-01
+219,6188315.86,0.23,no renovable,Castilla y León,2018-01-01
+220,8840418.03,0.21,renovable,Cataluña,2018-01-01
+221,33633544.25,0.79,no renovable,Cataluña,2018-01-01
+222,1175805.38,0.23,renovable,País Vasco,2018-01-01
+223,3965929.98,0.77,no renovable,País Vasco,2018-01-01
+224,3599365.2,0.28,renovable,Principado de Asturias,2018-01-01
+225,9204544.03,0.72,no renovable,Principado de Asturias,2018-01-01
+226,441163.98,0.35,renovable,Comunidad de Madrid,2018-01-01
+227,810145.07,0.65,no renovable,Comunidad de Madrid,2018-01-01
+228,3612724.23,0.7,renovable,Comunidad Foral de Navarra,2018-01-01
+229,1570441.5,0.3,no renovable,Comunidad Foral de Navarra,2018-01-01
+230,3533900.95,0.18,renovable,Comunitat Valenciana,2018-01-01
+231,15589516.04,0.82,no renovable,Comunitat Valenciana,2018-01-01
+232,5203502.44,0.25,renovable,Extremadura,2018-01-01
+233,15778421.5,0.75,no renovable,Extremadura,2018-01-01
+234,17362169.7,0.55,renovable,Galicia,2018-01-01
+235,13953098.54,0.45,no renovable,Galicia,2018-01-01
+236,1405912.42,0.23,renovable,Región de Murcia,2018-01-01
+237,4684761.05,0.77,no renovable,Región de Murcia,2018-01-01
+238,1215091.03,0.51,renovable,La Rioja,2018-01-01
+239,1178214.1,0.49,no renovable,La Rioja,2018-01-01
+240,12889964.07,0.38,renovable,Andalucía,2019-01-01
+241,21124764.25,0.62,no renovable,Andalucía,2019-01-01
+242,8293141.61,0.54,renovable,Aragón,2019-01-01
+243,7058639.43,0.46,no renovable,Aragón,2019-01-01
+244,415715.89,0.18,renovable,Cantabria,2019-01-01
+245,1881662.21,0.82,no renovable,Cantabria,2019-01-01
+246,12114941.47,0.53,renovable,Castilla - La Mancha,2019-01-01
+247,10734469.06,0.47,no renovable,Castilla - La Mancha,2019-01-01
+248,19087218.12,0.85,renovable,Castilla y León,2019-01-01
+249,3315451.47,0.15,no renovable,Castilla y León,2019-01-01
+250,7261328.09,0.16,renovable,Cataluña,2019-01-01
+251,37945634.7,0.84,no renovable,Cataluña,2019-01-01
+252,1116827.18,0.14,renovable,País Vasco,2019-01-01
+253,7113556.66,0.86,no renovable,País Vasco,2019-01-01
+254,3358243.54,0.33,renovable,Principado de Asturias,2019-01-01
+255,6761202.85,0.67,no renovable,Principado de Asturias,2019-01-01
+256,434543.16,0.32,renovable,Comunidad de Madrid,2019-01-01
+257,927486.7,0.68,no renovable,Comunidad de Madrid,2019-01-01
+258,3511513.71,0.47,renovable,Comunidad Foral de Navarra,2019-01-01
+259,3957966.97,0.53,no renovable,Comunidad Foral de Navarra,2019-01-01
+260,3677525.8,0.19,renovable,Comunitat Valenciana,2019-01-01
+261,15191368.3,0.81,no renovable,Comunitat Valenciana,2019-01-01
+262,4658269.64,0.22,renovable,Extremadura,2019-01-01
+263,16374086.12,0.78,no renovable,Extremadura,2019-01-01
+264,16206107.19,0.65,renovable,Galicia,2019-01-01
+265,8649706.2,0.35,no renovable,Galicia,2019-01-01
+266,1880735.68,0.18,renovable,Región de Murcia,2019-01-01
+267,8591748.67,0.82,no renovable,Región de Murcia,2019-01-01
+268,1274445.4,0.49,renovable,La Rioja,2019-01-01
+269,1308256.18,0.51,no renovable,La Rioja,2019-01-01
+270,14403033.42,0.51,renovable,Andalucía,2020-01-01
+271,13582145.02,0.49,no renovable,Andalucía,2020-01-01
+272,12333359.5,0.68,renovable,Aragón,2020-01-01
+273,5718905.79,0.32,no renovable,Aragón,2020-01-01
+274,377649.88,0.23,renovable,Cantabria,2020-01-01
+275,1248386.13,0.77,no renovable,Cantabria,2020-01-01
+276,12029884.37,0.52,renovable,Castilla - La Mancha,2020-01-01
+277,10915247.18,0.48,no renovable,Castilla - La Mancha,2020-01-01
+278,22146713.26,0.87,renovable,Castilla y León,2020-01-01
+279,3301986.42,0.13,no renovable,Castilla y León,2020-01-01
+280,8398714.24,0.2,renovable,Cataluña,2020-01-01
+281,34559573.2,0.8,no renovable,Cataluña,2020-01-01
+282,1000041.69,0.16,renovable,País Vasco,2020-01-01
+283,5171610.55,0.84,no renovable,País Vasco,2020-01-01
+284,2917526.06,0.31,renovable,Principado de Asturias,2020-01-01
+285,6424868.74,0.69,no renovable,Principado de Asturias,2020-01-01
+286,466627.77,0.36,renovable,Comunidad de Madrid,2020-01-01
+287,823845.43,0.64,no renovable,Comunidad de Madrid,2020-01-01
+288,3503501.39,0.53,renovable,Comunidad Foral de Navarra,2020-01-01
+289,3109765.41,0.47,no renovable,Comunidad Foral de Navarra,2020-01-01
+290,3281179.0,0.17,renovable,Comunitat Valenciana,2020-01-01
+291,15837829.38,0.83,no renovable,Comunitat Valenciana,2020-01-01
+292,6015278.79,0.28,renovable,Extremadura,2020-01-01
+293,15339554.87,0.72,no renovable,Extremadura,2020-01-01
+294,18556765.0,0.76,renovable,Galicia,2020-01-01
+295,5998976.64,0.24,no renovable,Galicia,2020-01-01
+296,2460357.14,0.24,renovable,Región de Murcia,2020-01-01
+297,7814341.14,0.76,no renovable,Región de Murcia,2020-01-01
+298,1080604.14,0.6,renovable,La Rioja,2020-01-01
+299,711414.53,0.4,no renovable,La Rioja,2020-01-01
+300,16019495.87,0.55,renovable,Andalucía,2021-01-01
+301,13319166.31,0.45,no renovable,Andalucía,2021-01-01
+302,15136165.85,0.78,renovable,Aragón,2021-01-01
+303,4342064.39,0.22,no renovable,Aragón,2021-01-01
+304,411721.49,0.24,renovable,Cantabria,2021-01-01
+305,1281531.79,0.76,no renovable,Cantabria,2021-01-01
+306,13404276.65,0.58,renovable,Castilla - La Mancha,2021-01-01
+307,9727166.76,0.42,no renovable,Castilla - La Mancha,2021-01-01
+308,24075862.83,0.89,renovable,Castilla y León,2021-01-01
+309,2949714.34,0.11,no renovable,Castilla y León,2021-01-01
+310,6777598.08,0.17,renovable,Cataluña,2021-01-01
+311,33099380.49,0.83,no renovable,Cataluña,2021-01-01
+312,1141020.82,0.17,renovable,País Vasco,2021-01-01
+313,5679696.74,0.83,no renovable,País Vasco,2021-01-01
+314,3242081.7,0.29,renovable,Principado de Asturias,2021-01-01
+315,8041522.94,0.71,no renovable,Principado de Asturias,2021-01-01
+316,495545.61,0.37,renovable,Comunidad de Madrid,2021-01-01
+317,838558.34,0.63,no renovable,Comunidad de Madrid,2021-01-01
+318,4273559.77,0.49,renovable,Comunidad Foral de Navarra,2021-01-01
+319,4407522.28,0.51,no renovable,Comunidad Foral de Navarra,2021-01-01
+320,3371188.38,0.19,renovable,Comunitat Valenciana,2021-01-01
+321,14555020.86,0.81,no renovable,Comunitat Valenciana,2021-01-01
+322,9385224.2,0.38,renovable,Extremadura,2021-01-01
+323,15302102.56,0.62,no renovable,Extremadura,2021-01-01
+324,17979661.8,0.74,renovable,Galicia,2021-01-01
+325,6232617.03,0.26,no renovable,Galicia,2021-01-01
+326,2612050.26,0.28,renovable,Región de Murcia,2021-01-01
+327,6637496.84,0.72,no renovable,Región de Murcia,2021-01-01
+328,1198991.66,0.55,renovable,La Rioja,2021-01-01
+329,962773.75,0.45,no renovable,La Rioja,2021-01-01
+330,16680251.6,0.46,renovable,Andalucía,2022-01-01
+331,19670896.95,0.54,no renovable,Andalucía,2022-01-01
+332,15297838.15,0.75,renovable,Aragón,2022-01-01
+333,5089732.51,0.25,no renovable,Aragón,2022-01-01
+334,358331.47,0.24,renovable,Cantabria,2022-01-01
+335,1125905.51,0.76,no renovable,Cantabria,2022-01-01
+336,15775993.24,0.62,renovable,Castilla - La Mancha,2022-01-01
+337,9730416.02,0.38,no renovable,Castilla - La Mancha,2022-01-01
+338,20744220.05,0.9,renovable,Castilla y León,2022-01-01
+339,2385047.55,0.1,no renovable,Castilla y León,2022-01-01
+340,5912894.06,0.14,renovable,Cataluña,2022-01-01
+341,35732397.36,0.86,no renovable,Cataluña,2022-01-01
+342,1050621.89,0.11,renovable,País Vasco,2022-01-01
+343,8324223.17,0.89,no renovable,País Vasco,2022-01-01
+344,2569518.87,0.21,renovable,Principado de Asturias,2022-01-01
+345,9802881.76,0.79,no renovable,Principado de Asturias,2022-01-01
+346,396578.43,0.42,renovable,Comunidad de Madrid,2022-01-01
+347,541271.02,0.58,no renovable,Comunidad de Madrid,2022-01-01
+348,4177364.3,0.45,renovable,Comunidad Foral de Navarra,2022-01-01
+349,5014117.53,0.55,no renovable,Comunidad Foral de Navarra,2022-01-01
+350,3030743.03,0.16,renovable,Comunitat Valenciana,2022-01-01
+351,15906326.57,0.84,no renovable,Comunitat Valenciana,2022-01-01
+352,10159330.39,0.39,renovable,Extremadura,2022-01-01
+353,16087647.97,0.61,no renovable,Extremadura,2022-01-01
+354,14524646.26,0.65,renovable,Galicia,2022-01-01
+355,7891030.21,0.35,no renovable,Galicia,2022-01-01
+356,2670445.81,0.23,renovable,Región de Murcia,2022-01-01
+357,8982495.46,0.77,no renovable,Región de Murcia,2022-01-01
+358,1106679.16,0.48,renovable,La Rioja,2022-01-01
+359,1214444.16,0.52,no renovable,La Rioja,2022-01-01
