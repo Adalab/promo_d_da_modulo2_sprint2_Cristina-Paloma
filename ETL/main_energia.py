@@ -20,6 +20,8 @@ for año in range(año1,año2+1):
         df = api.llamada_ccaa(año, v)
         df_ccaa_final = pd.concat([df_ccaa_final, df],  axis=0, ignore_index = True)
 
+df_ccaa_final['CCAA'] = df_ccaa_final['CCAA'].map(se.mapa_ccaa, na_action="ignore")
+
 
 api.limpiar_energia(df_años)
 api.limpiar_energia(df_ccaa_final)
@@ -29,5 +31,5 @@ api.cambiar_fecha(df_ccaa_final, "datetime")
 print(df_años)
 print(df_ccaa_final)
 
-df_años.to_csv("files/datos_años.csv")
-df_ccaa_final.to_csv("files/datos_ccaa.csv")
+df_años.to_csv("datos_años.csv")
+df_ccaa_final.to_csv("datos_ccaa.csv")

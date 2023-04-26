@@ -91,3 +91,6 @@ cod_comunidades2 = {'Andalucía': 4,
                     'Galicia': 17,
                     'Región de Murcia': 21,
                     'La Rioja': 20}
+
+mapa_ccaa = {v:k for k, v in cod_comunidades2.items()}
+
