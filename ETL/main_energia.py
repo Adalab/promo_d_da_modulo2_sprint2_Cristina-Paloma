@@ -34,3 +34,52 @@ print(df_ccaa_final)
 df_años.to_csv("datos_años.csv")
 df_ccaa_final.to_csv("datos_ccaa.csv")
 
+
+
+
+carga = se.Cargar('energía', 'AlumnaAdalab')
+
+carga.crear_bbdd()
+
+
+carga.crear_insertar_tabla('''CREATE TABLE IF NOT EXISTS `energía`.`comunidades` (
+                            `idcomunidades` INT NOT NULL AUTO_INCREMENT,
+                            `comunidad` VARCHAR(45),
+                            PRIMARY KEY (`idcomunidades`))
+                            ENGINE = InnoDB;
+                            ''')
+
+
+carga.crear_insertar_tabla("""CREATE TABLE IF NOT EXISTS `energía`.`nacional_renovable_no_renovable`(
+                            `idnacional` INT NOT NULL AUTO_INCREMENT,
+                            `porcentaje` DECIMAL,
+                            `tipo_energia` VARCHAR(45),
+                            `valor` DECIMAL,
+                            PRIMARY KEY (`idnacional`))
+                            ENGINE = InnoDB;""")
+
+carga.crear_insertar_tabla("""CREATE TABLE IF NOT EXISTS `energía`.`comunidades_renovable_no_renovable`(
+                            `id` INT NOT NULL AUTO_INCREMENT,
+                            `porcentaje` DECIMAL,
+                            `tipo_energia` VARCHAR(45),
+                            `valor` DECIMAL,
+                            `idcomunidades` INT NOT NULL,
+                            PRIMARY KEY (`id`),
+                            CONSTRAINT `fk_comunidades_comunidades`
+                                FOREIGN KEY (`idcomunidades`)
+                                REFERENCES `energía`.`comunidades` (`idcomunidades`))
+                            ENGINE = InnoDB;""")
+
+carga.crear_insertar_tabla("""CREATE TABLE IF NOT EXISTS `energía`.`fechas`(
+                                `idFechas` INT NOT NULL AUTO_INCREMENT,
+                                `fecha` DATE,
+                                `nacional_renovable_no_renovable_id` INT,
+                                `comunidades_renovable_no_renovable_id` INT,
+                                PRIMARY KEY (`idFechas`),
+                                CONSTRAINT `fk_nacional_fechas`
+                                    FOREIGN KEY(`nacional_renovable_no_renovable_id`)
+                                    REFERENCES `energía`.`nacional_renovable_no_renovable`(`idnacional`),
+                                CONSTRAINT `fk_comunidades_fechas`
+                                    FOREIGN KEY (`comunidades_renovable_no_renovable_id`)
+                                    REFERENCES `energía`.`comunidades_renovable_no_renovable` (`id`))
+                                ENGINE = InnoDB;""")

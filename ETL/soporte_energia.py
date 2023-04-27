@@ -93,3 +93,45 @@ cod_comunidades2 = {'Andalucía': 4,
                     'La Rioja': 20}
 
 mapa_ccaa = {v:k for k, v in cod_comunidades2.items()}
+
+
+class Cargar:
+    
+    def __init__(self, nombre_bbdd, contraseña):
+        self.nombre_bbdd = nombre_bbdd
+        self.contraseña = contraseña
+
+
+    def crear_bbdd(self):
+
+        mydb = mysql.connector.connect(host="localhost",
+                                       user="root",
+                                       password=f'{self.contraseña}') 
+        mycursor = mydb.cursor()
+        print("Conexión realizada con éxito")
+
+        try:
+            mycursor.execute(f"CREATE DATABASE IF NOT EXISTS {self.nombre_bbdd};")
+            
+        except:
+            print("La BBDD ya existe")
+
+
+    def crear_insertar_tabla(self, query):
+        
+        mydb = mysql.connector.connect(host="localhost",
+                                       user="root",
+                                       password=f'{self.contraseña}', 
+                                       database=f"{self.nombre_bbdd}") 
+        mycursor = mydb.cursor()
+        
+        try:
+            mycursor.execute(query)
+            mydb.commit()
+          
+        except mysql.connector.Error as err:
+            print(err)
+            print("Error Code:", err.errno)
+            print("SQLSTATE", err.sqlstate)
+            print("Message", err.msg)
+
